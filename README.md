@@ -17,7 +17,7 @@ Technologies Used:
 
 Installation & Usage:
 Clone this repository:
-git clone https://github.com/your-username/bmi-calculator.git
+git clone https://github.com/Tech-savvyPavithra/Web_Development-BMI_Calculator.git
 
 Navigate to the project directory:
 cd bmi-calculator
