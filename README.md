@@ -1,3 +1,5 @@
+Live Demo: https://dashing-pixie-a2ebd7.netlify.app/
+
 BMI Calculator:
 
 A simple web application that calculates the Body Mass Index (BMI) based on user input height (in cm) and weight (in kg). The app provides an easy-to-use interface and displays BMI results along with a classification chart.
