@@ -1,4 +1,4 @@
-Live Demo: https://dashing-pixie-a2ebd7.netlify.app/
+Live Demo: https://pavithra-bmi-calculator.netlify.app/
 
 BMI Calculator:
 
